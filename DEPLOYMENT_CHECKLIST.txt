@@ -1,0 +1,13 @@
+CHECKLIST PENGGUNAAN ONLINE
+[ ] Akun Railway dibuat
+[ ] Aplikasi di-deploy
+[ ] Volume /data dibuat
+[ ] DATA_DIR=/data
+[ ] ADMIN_PASSWORD diganti
+[ ] URL aplikasi dicoba dari HP petugas
+[ ] Akun petugas dibuat
+[ ] Input produksi dicoba
+[ ] Input penjualan Grade A/B/C dicoba
+[ ] Input pengeluaran dicoba
+[ ] Login Admin memeriksa data petugas
+[ ] Backup data dijadwalkan
